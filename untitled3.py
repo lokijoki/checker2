@@ -5,7 +5,7 @@
 
 #Original file is located at
     #https://colab.research.google.com/drive/1Lp2Eq4kutajFk6EN5Xm0NYJYcme2unrf
-"""
+#"""
 #на это ругается впс, поэтому комментим
 #!pip install pytelegrambotapi
 #!pip install --upgrade requests urllib3
